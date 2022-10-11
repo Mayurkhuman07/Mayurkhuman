@@ -9,14 +9,13 @@
 
 🔭 I’m currently working on improving my technical skills.
 
-🌱 I’m currently working as a freelancer in wordpress domain.  
+🌱 I’m currently working as a freelancer in wordpress Technology.  
 
 🤝 I’m open to collaborate on projects and research/review papers. 
 
 💬 Talk to me about Wordpress, Webdevelopment ,Ecommerce , Freelancing Opportunities, Open Source related gigs.
 
-⚡ Fun Fact -  My TBR list is ♾
- 
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
